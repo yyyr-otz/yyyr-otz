@@ -1,4 +1,4 @@
-## 一语嫣然的技术归档 👋
+## 兴趣使然的技术归档 👋
 
 | <a href="https://yyyr.nyc.mn"><img align="center" src="https://github-readme-stats-yyyr.vercel.app/api?username=yyyr-otz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="[https://github.com/anuraghazra/github-readme-stats](https://yyyr.nyc.mn)"><img align="center" src="https://github-readme-stats-yyyr.vercel.app/api/top-langs/?username=yyyr-otz&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
